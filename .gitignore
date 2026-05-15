@@ -1,0 +1,26 @@
+#compilation object files
+.obj
+.o
+.exe
+.a
+.lib
+.so
+.dll
+
+#folders
+build/
+bin/
+out/
+lib/
+
+#CMake Specific files
+CMakeCache.txt
+.cmake
+Makefile
+
+#VS code specific files
+.sln
+.vs
+.vscode
+
+

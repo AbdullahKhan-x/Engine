@@ -24,3 +24,6 @@ Makefile
 .vscode
 
 
+
+#Bundled SDL2 libraries (needed to build)
+!vendor/SDL/lib/
